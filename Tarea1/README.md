@@ -15,7 +15,7 @@ _Live Server es una herramienta de Visual Studio Code que permite vizualizar el 
 
 _Una vez instalada esta extensión, dar click en 'Go Live' en la parte inferior derecha de la pantalla para mostrar el proyecto en el navegador predeterminado_
 
-<img src="Live Server.png" alt="LiveServerExample"/>
+<img src="img/Live Server.png" alt="LiveServerExample"/>
 
 ### Puntos importantes
 
@@ -29,7 +29,7 @@ _Lo que cambia de cada figura son:_
 
 _Para construir esta pirámide se hizo uso de GeoGebra 3D para calcular los puntos que después serían usados en las matrices de vertices_
 
-<img src="Piramide.png" alt="Piramide"/>
+<img src="img/Piramide.png" alt="Piramide"/>
 
 ### Dodecaedro
 
@@ -55,7 +55,7 @@ _Las caras siguen el siguiente orden de puntos_
 ## Octaedro
 
 _Para construir esta figura se hizo uso de GeoGebra 3D para obtener los puntos_
-<img src="Octaedro.png" alt="Piramide"/>
+<img src="img/Octaedro.png" alt="Piramide"/>
 
 _También se modifico la función update para que la figura pudiera tener movimiento agregando el siguiente pedazo de codigo:_
 ```
