@@ -50,7 +50,7 @@ _Las caras siguen el siguiente orden de puntos_
 * _Cara 9: I->E->R->G->L_
 * _Cara 10: N->F->T->R->E_
 * _Cara 11: J->K->H->T->F_
-* _Cara 13: G->R->T->H->P_
+* _Cara 12: G->R->T->H->P_
 
 ## Octaedro
 
